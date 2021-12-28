@@ -15,6 +15,7 @@
 		18168FF1277736C400E55346 /* ProgressTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18168FF0277736C400E55346 /* ProgressTrackerUITests.swift */; };
 		18168FF3277736C400E55346 /* ProgressTrackerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18168FF2277736C400E55346 /* ProgressTrackerUITestsLaunchTests.swift */; };
 		181690002777391C00E55346 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18168FFF2777391C00E55346 /* Extensions.swift */; };
+		18169004277B58F900E55346 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18169003277B58F900E55346 /* SignUp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		18168FF0277736C400E55346 /* ProgressTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressTrackerUITests.swift; sourceTree = "<group>"; };
 		18168FF2277736C400E55346 /* ProgressTrackerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressTrackerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		18168FFF2777391C00E55346 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		18169003277B58F900E55346 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				18168FD5277736A400E55346 /* ProgressTrackerApp.swift */,
 				18168FD7277736A400E55346 /* ContentView.swift */,
 				18168FFF2777391C00E55346 /* Extensions.swift */,
+				18169003277B58F900E55346 /* SignUp.swift */,
 				18168FD9277736C200E55346 /* Assets.xcassets */,
 				18168FDB277736C200E55346 /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18168FD8277736A400E55346 /* ContentView.swift in Sources */,
+				18169004277B58F900E55346 /* SignUp.swift in Sources */,
 				181690002777391C00E55346 /* Extensions.swift in Sources */,
 				18168FD6277736A400E55346 /* ProgressTrackerApp.swift in Sources */,
 			);
